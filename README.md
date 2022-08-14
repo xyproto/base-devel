@@ -1,7 +1,8 @@
 # base-devel
 
-* A small utility for listing all directories in `PATH` that are named `.bin` or `bin`.
-* The utility name is good for testing if package managers behave correctly.
+A small utility for listing directories in `PATH` that is named `base-devel` to help test package manager behavior.
+
+* It lists all directories in `PATH` that are named `.bin` or `bin`.
 * If the `-n` flag is passed, directories in `PATH` that are not named `.bin` or `bin` are listed.
 
 ## Installation
